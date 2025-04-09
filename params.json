@@ -5,5 +5,5 @@
   { "key": "Bob",   "value": "http://example.com/Bob"   },
   
 { "key": "Alex",   "value": "http://example.com/Alex"   },
-  { "key": "Alice",   "value": "http://example.com/Alice"   },
+  { "key": "Alice",   "value": "http://example.com/Alice"   }
 ] 
